@@ -1,4 +1,4 @@
 <?php
-    echo "Hello Git HUB";
+    echo "Hello Git hub";
     echo "My name is Naputsakorn";
 ?>
