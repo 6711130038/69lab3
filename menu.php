@@ -1,4 +1,4 @@
 <?php
     echo "Mahanakorn";
-    echo "Bangkok";
+    echo "Bang";
 ?>
