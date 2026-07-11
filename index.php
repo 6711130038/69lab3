@@ -6,5 +6,4 @@
     echo "kfc";
     echo "mcdonal";
     echo "Im so hungry";
-    echo "I wanna sleep";
 ?>
